@@ -53,14 +53,6 @@ Além da engenharia, também me interesso por:
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nogzzin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nogzzin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nogzzin/Nogzzin/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nogzzin/Nogzzin/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nogzzin/Nogzzin/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 ## ✨ Agradecimentos
 
